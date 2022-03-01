@@ -1,7 +1,7 @@
 ## Installation
 
 ### Install Python 3
-Installation of Python 3 depends on specific OS. Please refer to [[https://www.python.org/]](https://www.python.org/) for more information.
+Installation of Python 3 depends on specific OS. Please refer to [https://www.python.org/](https://www.python.org/) for more information.
 
 ### install virtualenv
 
