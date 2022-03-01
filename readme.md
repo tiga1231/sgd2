@@ -3,9 +3,10 @@
 ### Install python3
 
 ### install virtualenv
-cd to a desired dir for python venv
-virtualenv venv -p python3
-source venv/bin/activate
+
+    cd <directory-for-virtualenv>
+    virtualenv venv -p python3
+    source venv/bin/activate
 
 ### Install python packages
 
