@@ -5,11 +5,14 @@ Installation of Python 3 depends on specific OS. Please refer to [https://www.py
 
 2. Install virtualenv
 
+
     cd <directory-for-virtualenv>
     virtualenv venv -p python3
     source venv/bin/activate
 
+
 3. Install python packages
+
 
     pip install torch 
     pip install numpy scipy sklearn pynndescent
