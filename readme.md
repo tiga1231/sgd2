@@ -1,6 +1,7 @@
 ## Installation
 
-### Install python3
+### Install Python 3
+Installation of Python 3 depends on specific OS. Please refer to [[https://www.python.org/]](https://www.python.org/) for more information.
 
 ### install virtualenv
 
@@ -10,21 +11,20 @@
 
 ### Install python packages
 
-pip install torch 
-pip install numpy scipy sklearn pynndescent
-pip install tqdm networkx natsort
-pip install matplotlib
+    pip install torch 
+    pip install numpy scipy sklearn pynndescent
+    pip install tqdm networkx natsort
+    pip install matplotlib
 
 
 ## Download code base
 
-git clone git@github.com:tiga1231/graph-drawing.git
-cd graph-drawing
-git branch sgd
+    git clone git@github.com:tiga1231/sgd2.git
+    cd sgd2
 
 ## Run example code
 
-python example.py
+    python example.py
 
 
  
